@@ -1,0 +1,186 @@
+[
+ {
+   "Housing": "torRent1",
+   "Price": 475
+ },
+ {
+   "Housing": "torRent2",
+   "Price": 1200
+ },
+ {
+   "Housing": "torRent3",
+   "Price": 1600
+ },
+ {
+   "Housing": "torRent4",
+   "Price": 1100
+ },
+ {
+   "Housing": "torRent5",
+   "Price": 1166.67
+ },
+ {
+   "Housing": "looRent1",
+   "Price": 350
+ },
+ {
+   "Housing": "looRent2",
+   "Price": 736
+ },
+ {
+   "Housing": "looRent3",
+   "Price": 917
+ },
+ {
+   "Housing": "looRent4",
+   "Price": 546.5
+ },
+ {
+   "Housing": "looRent5",
+   "Price": 430.33
+ },
+ {
+   "Housing": "saugaRent1",
+   "Price": 445
+ },
+ {
+   "Housing": "saugaRent2",
+   "Price": 1079
+ },
+ {
+   "Housing": "saugaRent3",
+   "Price": 1415
+ },
+ {
+   "Housing": "saugaRent4",
+   "Price": 860
+ },
+ {
+   "Housing": "saugaRent5",
+   "Price": 557.33
+ },
+ {
+   "Housing": "food1",
+   "Price": 300
+ },
+ {
+   "Housing": "food2",
+   "Price": 550
+ },
+ {
+   "Housing": "food3",
+   "Price": 1000
+ },
+ {
+   "Housing": "torInternet1",
+   "Price": 65
+ },
+ {
+   "Housing": "torInternet2",
+   "Price": 75
+ },
+ {
+   "Housing": "torInternet3",
+   "Price": 95
+ },
+ {
+   "Housing": "looInternet1",
+   "Price": 32
+ },
+ {
+   "Housing": "looInternet2",
+   "Price": 42
+ },
+ {
+   "Housing": "looInternet3",
+   "Price": 61
+ },
+ {
+   "Housing": "saugaInternet1",
+   "Price": 42
+ },
+ {
+   "Housing": "saugaInternet2",
+   "Price": 52
+ },
+ {
+   "Housing": "saugaInternet3",
+   "Price": 72
+ },
+ {
+   "Housing": "",
+   "Price": null
+ },
+ {
+   "Housing": "torWater1",
+   "Price": 30
+ },
+ {
+   "Housing": "torWater2",
+   "Price": 40
+ },
+ {
+   "Housing": "torWater3",
+   "Price": 70
+ },
+ {
+   "Housing": "looWater1",
+   "Price": 24
+ },
+ {
+   "Housing": "looWater2",
+   "Price": 34
+ },
+ {
+   "Housing": "looWater3",
+   "Price": 64
+ },
+ {
+   "Housing": "saugaWater1",
+   "Price": 29
+ },
+ {
+   "Housing": "saugaWater2",
+   "Price": 39
+ },
+ {
+   "Housing": "saugaWater3",
+   "Price": 69
+ },
+ {
+   "Housing": "torHydro1",
+   "Price": 35
+ },
+ {
+   "Housing": "torHydro2",
+   "Price": 55
+ },
+ {
+   "Housing": "torHydro3",
+   "Price": 85
+ },
+ {
+   "Housing": "looHydro1",
+   "Price": 19
+ },
+ {
+   "Housing": "looHydro2",
+   "Price": 39
+ },
+ {
+   "Housing": "looHyrdo3",
+   "Price": 69
+ },
+ {
+   "Housing": "saugaHydro1",
+   "Price": 29
+ },
+ {
+   "Housing": "saugaHydro2",
+   "Price": 49
+ },
+ {
+   "Housing": "saugaHydro3",
+   "Price": 79
+ }
+]
